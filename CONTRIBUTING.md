@@ -148,6 +148,4 @@ All contributors will be recognized in the project. Significant contributions ma
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
----
-
 **Thank you for helping make QA testing better for everyone!** 🚀
